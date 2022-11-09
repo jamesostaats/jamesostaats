@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python, relational databases and visualization 
 - 🌱 I’m currently learning Plotly, Dash and Azure
 - ✨ jamesostaats@gmail.com
-- Test with James
 
 
 
